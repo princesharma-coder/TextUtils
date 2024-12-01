@@ -22,5 +22,5 @@ TextUtils is a React-based web application where users can paste text and perfor
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/textutils.git
+   git clone https://github.com/princesharma-coder/TextUtils.git
    cd textutils
